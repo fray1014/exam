@@ -6,7 +6,8 @@ import java.util.*;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
-public class Main {
+/**统计二进制1的个数*/
+public class Main1 {
     public static void main(String[] args){
         Scanner s=new Scanner(System.in);
         int N=s.nextInt();
